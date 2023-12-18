@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\text git one\text git\bin\Debug\text git.exe.config
+C:\Users\ADMIN\source\repos\text git one\text git\bin\Debug\text git.exe
+C:\Users\ADMIN\source\repos\text git one\text git\bin\Debug\text git.pdb
+C:\Users\ADMIN\source\repos\text git one\text git\obj\Debug\text git.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\text git one\text git\obj\Debug\text git.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\text git one\text git\obj\Debug\text git.exe
+C:\Users\ADMIN\source\repos\text git one\text git\obj\Debug\text git.pdb
